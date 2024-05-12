@@ -1,6 +1,11 @@
 # Hysteresis Curve Simulator
 This program is a simple hysteresis curve simulator that allows you to explore the behavior of hysteresis curves by adjusting three sliders.
 
+<p align="center">
+  <img src="https://github.com/m4xy07/Hysteresis-Curve-Simulator/assets/39182106/253d855e-f02b-4988-85e0-96ea88cf1d57" alt="UI Image"/>
+</p>
+
+
 ## What is a Hysteresis Curve?
 A hysteresis curve is a graphical representation of the relationship between two variables, where the output variable lags behind the input variable due to the system's internal delay or memory. In other words, the output variable depends not only on the current input value but also on the history of previous input values.
 
