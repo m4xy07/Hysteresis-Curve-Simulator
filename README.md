@@ -24,9 +24,9 @@ To use the simulator, simply adjust the sliders and observe the resulting hyster
 To reset the graph, click the **"Clear"** button.
 
 ## Requirements
-Python 3.x
-Matplotlib
-Tkinter
+1. Python 3.x
+2. Matplotlib
+3. Tkinter
 
 
 ## Installation
