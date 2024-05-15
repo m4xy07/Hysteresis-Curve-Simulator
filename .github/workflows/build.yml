@@ -35,7 +35,7 @@ jobs:
           tag_name: ${{ github.event.head_commit.message }}
           release_name: Hysteresis Sim | ${{ github.event.head_commit.message }}
           body: |
-            Simple python based Hysteresis Simulator with UI | Check README for it's working
+            Simple python based Hysteresis Simulator with UI | Check README for the working & slider layout
 
           overwrite: true
           draft: false
