@@ -20,7 +20,7 @@ class HysteresisSimulator(tk.Tk):
         self.slider_frame = tk.Frame(self)
         self.slider_frame.pack(side=tk.BOTTOM, fill=tk.X)
 
-        self.b1 = tk.Button(self.slider_frame, text="Clear", command=self.clear)
+        self.b1 = tk.Button(self.slider_frame, text=" Clear ", command=self.clear)
         self.b1.pack(side=tk.LEFT)
 
         self.slider_a = tk.Scale(self.slider_frame, from_=-10, to=10, orient=tk.HORIZONTAL, command=self.update_a)
